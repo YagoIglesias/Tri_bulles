@@ -1,0 +1,11 @@
+C:\Users\pw17kto\Desktop\Programmation\Module-404\EX_10_Tri_a_bulles\EX_10_Tri_a_bulles\bin\Debug\EX_10_Tri_a_bulles.exe.config
+C:\Users\pw17kto\Desktop\Programmation\Module-404\EX_10_Tri_a_bulles\EX_10_Tri_a_bulles\bin\Debug\EX_10_Tri_a_bulles.exe
+C:\Users\pw17kto\Desktop\Programmation\Module-404\EX_10_Tri_a_bulles\EX_10_Tri_a_bulles\bin\Debug\EX_10_Tri_a_bulles.pdb
+C:\Users\pw17kto\Desktop\Programmation\Module-404\EX_10_Tri_a_bulles\EX_10_Tri_a_bulles\obj\Debug\EX_10_Tri_a_bulles.csproj.AssemblyReference.cache
+C:\Users\pw17kto\Desktop\Programmation\Module-404\EX_10_Tri_a_bulles\EX_10_Tri_a_bulles\obj\Debug\EX_10_Tri_a_bulles.csproj.SuggestedBindingRedirects.cache
+C:\Users\pw17kto\Desktop\Programmation\Module-404\EX_10_Tri_a_bulles\EX_10_Tri_a_bulles\obj\Debug\EX_10_Tri_a_bulles.Main.resources
+C:\Users\pw17kto\Desktop\Programmation\Module-404\EX_10_Tri_a_bulles\EX_10_Tri_a_bulles\obj\Debug\EX_10_Tri_a_bulles.Properties.Resources.resources
+C:\Users\pw17kto\Desktop\Programmation\Module-404\EX_10_Tri_a_bulles\EX_10_Tri_a_bulles\obj\Debug\EX_10_Tri_a_bulles.csproj.GenerateResource.cache
+C:\Users\pw17kto\Desktop\Programmation\Module-404\EX_10_Tri_a_bulles\EX_10_Tri_a_bulles\obj\Debug\EX_10_Tri_a_bulles.csproj.CoreCompileInputs.cache
+C:\Users\pw17kto\Desktop\Programmation\Module-404\EX_10_Tri_a_bulles\EX_10_Tri_a_bulles\obj\Debug\EX_10_Tri_a_bulles.exe
+C:\Users\pw17kto\Desktop\Programmation\Module-404\EX_10_Tri_a_bulles\EX_10_Tri_a_bulles\obj\Debug\EX_10_Tri_a_bulles.pdb
